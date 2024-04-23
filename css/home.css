@@ -1,0 +1,59 @@
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+h5{
+    display: inline;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: small;
+}
+h10{
+    display: inline;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: small;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: blue;
+}
+img{
+    border: 2px solid black;
+    padding: 3px;
+    margin: 5px;
+    border-radius: 10px;
+    /*centers stuff*/
+    display: block;
+    margin: auto;
+}
+iframe{
+    border: 2px solid black;
+    padding: 3px;
+    margin: 5px;
+    border-radius: 10px;
+    /*centers stuff*/
+    display: block;
+    margin: auto;
+}
+.rizz{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(8, 8, 8);
+    background-color: grey;
+    border: rgb(44, 43, 43), 5px;
+    font-size: 16pt;
+    font-style:hsl(from color h s l) ;    
+}
+
+.rizz:hover{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+    border: white, 5px;
+    font-size: 16pt;
+    font-style:hsl(from color h s l);
+}
