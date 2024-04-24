@@ -40,20 +40,11 @@ iframe{
     display: block;
     margin: auto;
 }
-.rizz{
-    font-family: Arial, Helvetica, sans-serif;
-    color: rgb(8, 8, 8);
-    background-color: grey;
-    border: rgb(44, 43, 43), 5px;
-    font-size: 16pt;
-    font-style:hsl(from color h s l) ;    
-}
 
-.rizz:hover{
-    font-family: Arial, Helvetica, sans-serif;
-    color: white;
-    background-color: black;
-    border: white, 5px;
-    font-size: 16pt;
-    font-style:hsl(from color h s l);
+.top-center {
+    display: flex;
+    flex-direction: column;
+    left: auto;
+    justify-content: center;
+    align-items: center;
 }
